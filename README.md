@@ -1,7 +1,7 @@
-(https://media.licdn.com/dms/image/v2/D4D16AQGWSaPlZURLHw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733328915799?e=1740009600&v=beta&t=1yyFhrqiF-WX24jYPoARX9roDoc_0IRQhJ1W6TPvkVU)
+![IPython Problem Solver](https://media.licdn.com/dms/image/v2/D4D16AQGWSaPlZURLHw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733328915799?e=1740009600&v=beta&t=1yyFhrqiF-WX24jYPoARX9roDoc_0IRQhJ1W6TPvkVU)
 ### Hi there 👋, I'm Susmoy Jaman Soikoth
 #### Python Problem Solver
-![IPython Problem Solver]
+
 I’m a fianl-year student at Noakhali Science & Technology University. 🌱 I’m currently learning AI, Machine Learning, Data Science
 
 Skills: Python /C /C++/  HTML / CSS
