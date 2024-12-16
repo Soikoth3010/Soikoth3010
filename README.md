@@ -1,5 +1,4 @@
 (https://media.licdn.com/dms/image/v2/D4D16AQGWSaPlZURLHw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733328915799?e=1740009600&v=beta&t=1yyFhrqiF-WX24jYPoARX9roDoc_0IRQhJ1W6TPvkVU)
-
 ### Hi there 👋, I'm Susmoy Jaman Soikoth
 #### Python Problem Solver
 ![IPython Problem Solver]
